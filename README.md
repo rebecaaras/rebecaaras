@@ -1,4 +1,4 @@
 
 ## Hello! I'm Rebeca, welcome to my Github!
 
-🚀 I'm a developer focused mostly on Ruby on Rails and Node.js/TypeScript. I'm working hard to grow in this career and make good code. Feel free to contact me on [email](rebecaaraujo2013@gmail.com) or [linkedin](https://www.linkedin.com/in/rebecaara/).
+🚀 I'm a developer focused mostly on Ruby on Rails and Node.js/TypeScript. I'm working hard to grow in this career and make good code. Feel free to contact me on [email](mailto:rebecaaraujo2013@gmail.com) or [linkedin](https://www.linkedin.com/in/rebecaara/).
