@@ -3,4 +3,4 @@
 
 🚀 I'm a developer focused mostly on Ruby on Rails and React/ Node.js /TypeScript. Feel free to contact me on [email](mailto:rebecaaraujo2013@gmail.com) for random discussions, questions about any project or idk, I love to talk to people.
 
-PS: Oh, I have finally fixed my [blog](rebecaaras.org). It is up again!
+PS: Oh, I have finally fixed my [blog](www.rebecaaras.org). It is up again!
